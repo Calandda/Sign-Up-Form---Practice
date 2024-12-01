@@ -1,7 +1,18 @@
-* {
-	background-color: red;
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
 }
 
-body{
-	display: flex;
+.sectionHeader{
+	width: 40%;
+	height: 100vh;
+	overflow: hidden;
+	background-image: url(images/waterfalls.jpg);
+	background-size: 90vh;
+}
+.sectionForm{
+	background-color:red;
+	width: 60%;
+	height: 100vh;
 }

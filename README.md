@@ -1,10 +1,9 @@
-# Sign-Up-Form---Practice
-Sign Up Form - Practice HTML/CSS/Javascript
+# SIGN UP FORM - PRACTICE HTML/CSS/JAVASCRIPT
 
-The Odin Project - Sign up Form 
+	The Odin Project - Sign up Form 
 
 
-Credits: 
+## CREDITS: 
 
 The Odin Project Sign up Form exercise 
 
@@ -13,3 +12,7 @@ The Odin Project Sign up Form exercise
 The Odin Project Sign up Form exercise example
 
 	[https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form]
+	
+Photo of Waterfall by Sebastian Palomino on Pexels
+
+	[https://www.pexels.com/photo/photo-of-waterfall-1875480/]
