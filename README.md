@@ -2,6 +2,9 @@
 
 	The Odin Project - Sign up Form 
 
+## NOTES
+
+	Website is only optimized for full screen 1080p.
 
 ## CREDITS: 
 

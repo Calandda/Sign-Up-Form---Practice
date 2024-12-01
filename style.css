@@ -5,6 +5,8 @@ body{
 }
 
 .sectionHeader{
+	justify-content: center;
+	display: flex;
 	width: 40%;
 	height: 100vh;
 	overflow: hidden;
@@ -12,7 +14,15 @@ body{
 	background-size: 90vh;
 }
 .sectionForm{
-	background-color:red;
+	background-color: hsl(0, 1%, 90%);
 	width: 60%;
 	height: 100vh;
 }
+.pCredit{
+	color: hsl(0,100%,100%);
+	align-self: end;
+}
+a{
+	color: hsl(0,100%,100%);
+}
+
