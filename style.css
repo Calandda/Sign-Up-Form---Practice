@@ -1,3 +1,6 @@
+*{
+	outline: 0px solid red;
+}
 body{
 	margin: 0;
 	padding: 0;
@@ -5,8 +8,8 @@ body{
 }
 
 .sectionHeader{
-	justify-content: center;
 	display: flex;
+	flex-direction: column;
 	width: 40%;
 	height: 100vh;
 	overflow: hidden;
@@ -20,9 +23,32 @@ body{
 }
 .pCredit{
 	color: hsl(0,100%,100%);
-	align-self: end;
+	align-self: center;
+	margin-top: auto;
 }
 a{
 	color: hsl(0,100%,100%);
 }
+.divLogo{
+	display: flex;
+	justify-content: center;
+	background-color: hsla(0,0%,0%,.5);
+	margin-top: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.divImageLogo{
+	height: 180px;
+}
 
+.imageLogo{
+	height: 100%;
+}
+.pLogoTitle{
+	margin: 0;
+	padding: 0;
+	font-size: 96px;
+	color: hsl(0,100%,100%);
+	justify-content: center;
+	align-content: center;
+}
