@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Bebas+Neue&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 *{
 	outline: 0px solid red;
+	font-family: archivo;
 }
 body{
 	margin: 0;
@@ -66,8 +68,10 @@ a{
 	margin-bottom: 40px;
 }
 .pSign{
+	font-size: 20px;
 	margin-top: 100px;
-	margin-bottom: 70px;
+	margin-bottom: 40px;
+	margin-right: 240px;
 }
 .textBold{
 	font-weight: 1000;
@@ -106,6 +110,11 @@ a{
 }
 .divInput input{
 	height: 24px;
+}
+.divInput input:focus{
+	box-shadow: 0px 1px 5px hsla(0,0%,0%,0.5);
+	border: 1px solid blue;
+	border-radius: 2px;
 }
 form{
 	padding-top: 20px;

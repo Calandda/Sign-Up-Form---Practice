@@ -19,3 +19,7 @@ The Odin Project Sign up Form exercise example
 Photo of Waterfall by Sebastian Palomino on Pexels
 
 	[https://www.pexels.com/photo/photo-of-waterfall-1875480/]
+
+Archivo by Omnibus-Type on Google Fonts
+
+	[https://fonts.google.com/specimen/Archivo]
