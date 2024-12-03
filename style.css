@@ -98,10 +98,25 @@ a{
 	color: hsl(120, 75%,25%);
 }
 .divInput{
+	flex-basis: 40%;
 	display: flex;
 	flex-direction: column;
 	width:30%;
+	gap: 6px;
+}
+.divInput input{
+	height: 24px;
 }
 form{
-	width: 100%;
+	padding-top: 20px;
+	width: 80%;
+	height: 80%;
+	display: flex;
+	flex-flow: row wrap;
+	column-gap: 20px;
+}
+legend{
+	flex-basis: 100%;
+	font-weight: 700;
+	font-size: 24px;
 }
